@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @robofar
 - 👀 I’m interested in SLAM and Computer Vision for Robotics
 - 🌱 I’m currently focusing on:
-  - revising and improving my skills in C++
+  - C++ Multithread Programming
   - classical and neural SLAM
-  - CUDA C++
-  - Deep Learning
-  - TODO: Read more about ViTs, VGGTs and their usages in SLAM, 3D Reconstruction and World Models
+  - World Models for Simulation and Synthetic Data
 - 📫 You can reach me by sending an email to `robofar123@gmail.com`.
-- 🌳 I love nature, mountains and hiking.
+- 🌳 I love nature and mountains.
 
 <!---
 robofar/robofar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
