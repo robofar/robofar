@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @robofar
 - 👀 I’m interested in SLAM and Computer Vision for Robotics
 - 🌱 I’m currently focusing on:
-  - C++ Multithread Programming
-  - classical and neural SLAM
-  - World Models for Simulation and Synthetic Data
+  - C++ and CUDA Programming
+  - neural and foundation model-based SLAM
+  - Neural Simulation and Synthetic Data
 - 📫 You can reach me by sending an email to `robofar123@gmail.com`.
 - 🌳 I love nature and mountains.
 
