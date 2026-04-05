@@ -2,7 +2,7 @@
 - 👀 I’m interested in SLAM and Computer Vision for Robotics
 - 🌱 I’m currently focusing on:
   - C++ and CUDA Programming
-  - neural and foundation model-based SLAM
+  - classical, neural and foundation model-based SLAM
   - Large-scale LOD Gaussian Splatting
   - Neural Simulation and Synthetic Data
 - 📫 You can reach me by sending an email to `robofar123@gmail.com`.
