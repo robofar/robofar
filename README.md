@@ -6,7 +6,7 @@
   - C++ and CUDA programming for real-time 3D systems
   - Classical, neural and foundation model-based SLAM
   - Neural simulation and synthetic Data
-- 📍 Based in Germany 🇩🇪 | Seeking opportunities in 3D vision
+- 📍 Based in Germany 🇩🇪 | Seeking full-time opportunities
 - 📫 You can reach me by sending an email to `robofar123@gmail.com`.
 - 🌳 Outside of tech, I enjoy spending time in nature.
 
