@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @robofar
 - 👀 I’m interested in 3D computer vision, with a focus on reality mapping, digital twins, and SLAM.
 - 🌱 My current focus areas include:
-  - Level-of-detail large-scale Gaussian Splatting rendering
-  - Photogrammetry and 3D reconstruction
-  - C++ and CUDA programming for real-time 3D systems
-  - Classical, neural and foundation model-based SLAM
-  - Neural simulation and synthetic Data
+  - Classical, neural and 3R SLAM
+  - Neural simulation and synthetic data
+  - LOD Gaussian Splatting rendering
+  - C++ and CUDA programming
+  - Deep Learning
 - ✍️ I recently started writing technical articles on Medium: [robofar.medium.com](https://robofar.medium.com)
 - 📍 Based in Germany 🇩🇪 | Seeking full-time opportunities
 - 📫 You can reach me by sending an email to `robofar123@gmail.com`.
