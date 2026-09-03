@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robofar
-- 👀 I’m interested in 3D computer vision, with a focus on reality mapping, digital twins, and SLAM.
+- 👀 I’m interested in 3D Computer Vision, with a focus on 3D SLAM and 3D Reconstruction.
 - 🌱 My current focus areas include:
   - Classical, neural and 3R SLAM
   - Neural simulation and synthetic data
@@ -7,7 +7,7 @@
   - C++ and CUDA programming
   - Deep Learning
 - ✍️ I recently started writing technical articles on Medium: [robofar.medium.com](https://robofar.medium.com)
-- 📍 Based in Germany 🇩🇪 | Seeking full-time opportunities
+- 📍 Based in Germany 🇩🇪
 - 📫 You can reach me by sending an email to `robofar123@gmail.com`.
 - 🌳 Outside of tech, I enjoy spending time in nature.
 
